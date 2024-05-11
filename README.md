@@ -1,6 +1,3 @@
-Claro, aqui está o seu README.md formatado para o GitHub:
-
-```markdown
 # 🤖 ChatBot de RH com IA
 
 Este projeto apresenta um chatbot de RH inovador, desenvolvido com o poder da inteligência artificial do Google Gemini, para auxiliar na análise e aprimoramento de currículos.
