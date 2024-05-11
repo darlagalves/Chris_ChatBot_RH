@@ -56,5 +56,3 @@ Este projeto apresenta um chatbot de RH inovador, desenvolvido com o poder da in
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
 ```
-
-Esse README.md está pronto para ser adicionado ao seu repositório no GitHub. Se precisar de mais alguma coisa, é só pedir!
