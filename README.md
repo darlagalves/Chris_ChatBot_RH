@@ -26,7 +26,7 @@ Este projeto apresenta um chatbot de RH inovador, desenvolvido com o poder da in
 
 3. **Configure sua API Key do Google Gemini:**
 
-   Substitua "YOUR_API_KEY" no arquivo app.py pela sua chave de API.
+   Substitua "SUA_API_KEY" no arquivo app.py pela sua chave de API.
 
 4. **Execute a aplicação:**
 
